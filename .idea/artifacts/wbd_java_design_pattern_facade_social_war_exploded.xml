@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wbd-java-design-pattern-facade-social:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wbd_java_design_pattern_facade_social_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wbd-java-design-pattern-facade-social/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wbd-java-design-pattern-facade-social" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
